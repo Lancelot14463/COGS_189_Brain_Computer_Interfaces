@@ -70,6 +70,4 @@ Refer to the dataset documentation for full details: [https://physionet.org/cont
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
 ---
-© 2025 Andy Gibson
-
-*© 2025 Your Name*
+*© 2025 Andy Gibson*
